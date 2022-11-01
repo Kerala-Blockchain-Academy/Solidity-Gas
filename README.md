@@ -11,3 +11,4 @@ REPORT_GAS=true npx hardhat test
 npx hardhat node
 npx hardhat run scripts/deploy.js
 ```
+Ref: https://coinsbench.com/advanced-gas-optimizations-tips-for-solidity-85c47f413dc5
